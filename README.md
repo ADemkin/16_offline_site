@@ -1,6 +1,6 @@
 # New Site Template
 
-[TODO. There will be project description]
+This is a website template with lots of dependences downloaded to work in offline.
 
 # Project Goals
 
